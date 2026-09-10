@@ -54,11 +54,6 @@ Space-themed platform serving AoC-style coding puzzles, with accounts and progre
 My Advent of Code solutions. Vanilla JS, no dependencies, ASCII visualizations.<br>
 <a href="https://milanfox.github.io/Advent-of-Code/">live ↗</a></td>
 </tr>
-<tr>
-<td width="176"><img src="assets/codyssi.png" width="160" alt="Codyssi"></td>
-<td><b><a href="https://github.com/MilanFox/Codyssi">Codyssi</a></b><br>
-My solutions to the Codyssi coding challenges, in plain TypeScript.</td>
-</tr>
 </table>
 
 ### Experiments
