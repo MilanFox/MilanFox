@@ -16,14 +16,15 @@ Verify the person on the phone is really them — offline, zero-dependency PWA.<
 <a href="https://is-that-you.vercel.app">live ↗</a></td>
 </tr>
 <tr>
-<td width="176"><img src="assets/terra-incognita.png" width="160" alt="Terra-Incognita"></td>
-<td><b><a href="https://github.com/MilanFox/Terra-Incognita">Terra-Incognita</a></b> <code>WIP</code><br>
-Bilingual geography quiz. The component library and i18n are done, the quiz isn't.</td>
-</tr>
-<tr>
 <td width="176"><img src="assets/fox-tales.png" width="160" alt="Fox-Tales"></td>
 <td><b><a href="https://github.com/MilanFox/Fox-Tales">Fox-Tales</a></b> <code>discontinued</code><br>
 Private family photo sharing for Android and iOS. Flutter + Firebase, finished to MVP.</td>
+</tr>
+<tr>
+<td width="176"><img src="assets/terra-incognita.png" width="160" alt="Terra-Incognita"></td>
+<td><b><a href="https://github.com/MilanFox/Terra-Incognita">Terra-Incognita</a></b> <code>WIP</code><br>
+Bilingual geography quiz. The component library and i18n are done, the quiz isn't.<br>
+<a href="https://terra-incognita.vercel.app">live ↗</a></td>
 </tr>
 </table>
 
