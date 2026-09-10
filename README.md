@@ -35,7 +35,8 @@ Bilingual geography quiz. The component library and i18n are done, the quiz isn'
 <td width="176"><img src="assets/bootstrap.png" width="160" alt="BOOTSTRAP"></td>
 <td><b><a href="https://github.com/MilanFox/bootstrap">BOOTSTRAP</a></b><br>
 Write real TypeScript for terraforming robots, then watch the recording. 33 work orders, no server.<br>
-<i>An experiment in fully-agentic development — not one line written by hand.</i></td>
+<i>An experiment in fully-agentic development — not one line written by hand.</i><br>
+<a href="https://bootstrap-the-game.vercel.app">live ↗</a></td>
 </tr>
 <tr>
 <td width="176"><img src="assets/by-royal-decree.png" width="160" alt="By-Royal-Decree"></td>
