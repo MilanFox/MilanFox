@@ -84,6 +84,11 @@ Canvas playground — drive a knight around while an A*-driven minion hunts you.
 
 <table>
 <tr>
+<td width="176"><img src="assets/chartroom.png" width="160" alt="Chartroom"></td>
+<td><b><a href="https://github.com/MilanFox/chartroom">Chartroom</a></b><br>
+Self-hosted issue tracker built for Matt Pocock's skills workflow. One Docker container per project: web UI for humans, API and CLI for agents.</td>
+</tr>
+<tr>
 <td width="176"><img src="assets/migrate-aem-to-storyblok.png" width="160" alt="migrate-aem-to-storyblok"></td>
 <td><b><a href="https://github.com/MilanFox/migrate-aem-to-storyblok">migrate-aem-to-storyblok</a></b><br>
 Claude Code skills that migrate an AEM project's content into Storyblok, with review checkpoints.</td>
